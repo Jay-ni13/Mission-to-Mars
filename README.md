@@ -17,7 +17,7 @@ Mars's average atmospheric pressure--at the location of Curiosity--is lowest in 
 
 ![Avg_Pressure_by_Month](https://github.com/Jay-ni13/Mission-to-Mars/blob/main/Images/avg_pressure_by_month.png)
 
-To discover how many Earth days exist in a Martian year, we utilized the solar longitude data to determine how many Earth days passed during Mars' travel through its 359 solar longitude coordinate points. The answer was 686 Earth days.
+To discover how many Earth days exist in a Martian year, we utilized the solar longitude data to determine how many Earth days passed during Mars' travel through its 359 solar longitude coordinate points; the answer is 686 Earth days.
 
 We also charted Mars' daily minimum temperature on a line graph to visualize how Mars' weather varied from year to year during Curiosity's mission. Barring several outliers, Mars' temperature appears very cyclical and invariate each year.
 
