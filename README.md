@@ -6,7 +6,7 @@ Gathering news updates on Mars missions and performing exploratory analysis of M
   - Software: Python v3.7.13, Jupyter Notebook v6.4.8, Splinter v0.14.0, Webdriver_Manager v3.8.5, BeautifulSoup v4.11.1
 ## Summary
 ### Deliverable 1
-Utilizing Splinter and BeautifulSoup, we gathered the titles and intro paragraphs of news articles from NASA's MARS Planet Science Exploration Program (https://redplanetscience.com/). Though the code we wrote only scrapes the first 15 articles that appear on the news site's landing page, it could be augmented to scrape a larger number of articles--such as 50--by instructing Splinter to click the 'Next' button in the for loop as many times as necessary to gather the desired number of article titles and intro paragraphs.
+Utilizing Splinter and BeautifulSoup, we gathered the titles and intro paragraphs of news articles from [NASA's MARS Planet Science Exploration Program] (https://redplanetscience.com/). Though the code we wrote only scrapes the first 15 articles that appear on the news site's landing page, it could be augmented to scrape a larger number of articles--such as 50--by instructing Splinter to click the 'Next' button in the for loop as many times as necessary to gather the desired number of article titles and intro paragraphs.
 
 ### Deliverable 2
 
